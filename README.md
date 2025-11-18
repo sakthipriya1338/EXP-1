@@ -131,7 +131,7 @@ a.   KVL:
  |partical|100|16.7V|27.8V|55.6V|100.1V|
 
 
-b.  KCL:
+
 
 b.  KCL:
 
