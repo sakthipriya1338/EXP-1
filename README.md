@@ -49,8 +49,9 @@ a.   KVL:
 
 
 b.  KCL:
- 
-<img width="1111" height="548" alt="Screenshot 2025-11-13 225121" src="https://github.com/user-attachments/assets/08f991ea-d4ec-43a7-84f7-f74f9d76705b" />
+
+ <img width="1080" height="703" alt="Screenshot 2025-11-18 210442" src="https://github.com/user-attachments/assets/1dcfce5c-0037-4a06-bcc9-cc83490d9fbd" />
+
 
 
 Calculation:
@@ -131,6 +132,13 @@ a.   KVL:
 
 
 b.  KCL:
+
+b.  KCL:
+
+|KCL|$$I_{30\Omega}$$|$$I_{50\Omega}$$|$$I_{100\Omega}$$|$$V_{A}$$|
+ |:-----:|:-----:|:------------:|:--------------:|:---------------:|
+ |Theoretical|1.58A|1.05|0.53A|52.63V|
+ |partical|1.58A|1.05A|0.53V|52.6V|
 
 
 
