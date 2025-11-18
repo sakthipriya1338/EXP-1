@@ -58,6 +58,22 @@ Calculation:
 a.   KVL:
 
 $$ V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega} $$
+V = V_1 + V_2 + V_3
+
+100 = IR_1 + IR_2 + IR_3
+
+R_{eq} = R_1 + R_2 + R_3
+
+R_{eq} = 180\Omega
+
+I = \frac{V}{R_{eq}} = \frac{100}{180} = 0.556A
+
+V_1 = V_{30\Omega} = IR_1 = 0.556 \times 30 = 16.68V
+
+V_2 = V_{50\Omega} = IR_2 = 0.556 \times 50 = 27.8V
+
+V_3 = V_{100\Omega} = IR_3 = 0.556 \times 100 = 55.6V
+
 
  
 
